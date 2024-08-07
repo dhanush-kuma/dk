@@ -1,6 +1,4 @@
-Sure, here's a template for a `README.md` file for your Pantry Tracker project:
 
-```markdown
 # Pantry Tracker
 
 Pantry Tracker is a pantry management application built with Next.js and Firebase. It helps you keep track of your pantry items, allowing you to upload or capture images and generate AI-generated text descriptions for easy inventory management.
@@ -109,6 +107,3 @@ For questions or suggestions, please contact [your email](mailto:your.email@exam
 ---
 
 Happy tracking your pantry items with Pantry Tracker!
-```
-
-Feel free to modify the content to fit your specific project details and preferences.
