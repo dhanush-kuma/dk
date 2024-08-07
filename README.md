@@ -22,6 +22,20 @@ Pantry Tracker is a pantry management application built with Next.js and Firebas
 - **AI Text Generation:** Generate text descriptions for pantry items using AI.
 - **Firebase Integration:** Store and manage data securely with Firebase.
 
+
+## Screenshots
+
+Here are some screenshots of the Pantry Tracker application:
+
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### Add Item
+![Add Item](screenshots/add_item.png)
+
+### Item Details
+![Item Details](screenshots/item_details.png)
+
 ## Getting Started
 
 ### Prerequisites
